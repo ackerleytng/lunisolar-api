@@ -1,5 +1,7 @@
 # lunisolar-api
 
+![pouchie-lunisolar](pouchie-lunisolar.svg)
+
 This is a wrapper around https://github.com/magiclen/chinese-lunisolar-calendar to provide solar to lunisolar date conversions.
 
 This Rust code is compiled to WebAssembly and is running on Cloudflare's [edge infrastructure](https://www.cloudflare.com/network/).
